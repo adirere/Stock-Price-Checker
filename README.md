@@ -1,7 +1,9 @@
 **FreeCodeCamp**- Information Security and Quality Assurance
 ------
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-stockchecker)](https://repl.it/github/freeCodeCamp/boilerplate-project-stockchecker)
+Porject Page: [click here](https://glitch.com/~jagged-scintillating-hiss)
+
+Live App: [click here](https://jagged-scintillating-hiss.glitch.me)
 
 Project Stock Price Checker
 
